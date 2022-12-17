@@ -1,0 +1,101 @@
+[{
+    "id": 1,
+    "tipo": "Llavero",
+    "nombre": "Llavero Basket",
+    "precio": 300,
+    "foto": "../img/Productos/Llavero Basket.jpg"
+}, {
+    "id": 2,
+    "tipo": "Llavero",
+    "nombre": "Llavero BTS",
+    "precio": 300,
+    "foto": "../img/Productos/Llavero BTS.jpg"
+}, {
+    "id": 3,
+    "tipo": "Llavero",
+    "nombre": "Llavero Dia del Maestro",
+    "precio": 300,
+    "foto": "../img/Productos/Llavero Dia del Maestro.jpg"
+}, {
+    "id": 4,
+    "tipo": "Llavero",
+    "nombre": "Llavero Pokemon",
+    "precio": 300,
+    "foto": "../img/Productos/Llavero Pokemon.jpg"
+}, {
+    "id": 5,
+    "tipo": "Llavero",
+    "nombre": "Llavero Deportes con Nombre",
+    "precio": 350,
+    "foto": "../img/Productos/Llaveros Basket y Futbol.jpg"
+}, {
+    "id": 6,
+    "tipo": "Llavero",
+    "nombre": "Llavero Las Grutas",
+    "precio": 300,
+    "foto": "../img/Productos/Llaveros Las GRutas.jpg"
+}, {
+    "id": 7,
+    "tipo": "Llavero",
+    "nombre": "Llavero Among Us",
+    "precio": 300,
+    "foto": "../img/Productos/Llavero Among us.jpg"
+}, {
+    "id": 8,
+    "tipo": "Identificadores",
+    "nombre": "Identificador Equipos de Fútbol",
+    "precio": 450,
+    "foto": "../img/Productos/ID Boca.jpg"
+},
+{
+    "id": 9,
+    "tipo": "Identificadores",
+    "nombre": "Identificador Marvel",
+    "precio": 450,
+    "foto": "../img/Productos/ID Marvel.jpg"
+},
+{
+    "id": 10,
+    "tipo": "Identificadores",
+    "nombre": "Identificador Superheroes",
+    "precio": 350,
+    "foto": "../img/Productos/ID Superheroes.jpg"
+}, {
+    "id": 11,
+    "tipo": "Identificadores",
+    "nombre": "Identificador Mascotas",
+    "precio": 450,
+    "foto": "../img/Productos/ID varias.jpg"
+}, {
+    "id": 12,
+    "tipo": "Identificadores",
+    "nombre": "Identificador Simple",
+    "precio": 230,
+    "foto": "../img/Productos/Identificador 3d 2.jpg"
+}, {
+    "id": 13,
+    "tipo": "Identificadores",
+    "nombre": "Identificador Minecraft",
+    "precio": 450,
+    "foto": "../img/Productos/Identificador 3d 3.jpg"
+}, {
+    "id": 14,
+    "tipo": "Identificadores",
+    "nombre": "Identificador Dos Lineas",
+    "precio": 250,
+    "foto": "../img/Productos/Identificador 3d.jpg"
+}, {
+    "id": 15,
+    "tipo": "Varios",
+    "nombre": "Bb8 Star Wars 25cm",
+    "precio": 3740,
+    "foto": "../img/Productos/Bb8.jpg"
+}, {
+    "id": 16,
+    "tipo": "Varios",
+    "nombre": "Mates Personalizados",
+    "precio": 1500,
+    "foto": "../img/Productos/Mate.jpg"
+}
+
+]
